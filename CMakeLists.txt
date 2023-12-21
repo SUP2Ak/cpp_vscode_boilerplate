@@ -8,5 +8,5 @@ project(
     DESCRIPTION "Small CMake example built with VSCode"
 )
 
-add_subdirectory(main)   # look in hello subdirectory for CMakeLists.txt to process
+add_subdirectory(project)   # look in hello subdirectory for CMakeLists.txt to process
 add_subdirectory(apps)    # look in apps subdirectory for CMakeLists.txt to process
